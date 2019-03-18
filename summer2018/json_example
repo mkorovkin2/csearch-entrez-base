@@ -1,0 +1,130 @@
+{
+    "header": {
+        "type": "esummary",
+        "version": "0.3"
+    },
+    "result": {
+        "uids": [
+            "25304512"
+        ],
+        "25304512": {
+            "uid": "25304512",
+            "pubdate": "2015 Jan",
+            "epubdate": "2014 Oct 10",
+            "source": "Appl Environ Microbiol",
+            "authors": [
+                {
+                    "name": "Kato S",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Yumoto I",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Kamagata Y",
+                    "authtype": "Author",
+                    "clusterid": ""
+                }
+            ],
+            "lastauthor": "Kamagata Y",
+            "title": "Isolation of acetogenic bacteria that induce biocorrosion by utilizing metallic iron as the sole electron donor.",
+            "sorttitle": "isolation of acetogenic bacteria that induce biocorrosion by utilizing metallic iron as the sole electron donor",
+            "volume": "81",
+            "issue": "1",
+            "pages": "67-73",
+            "lang": [
+                "eng"
+            ],
+            "nlmuniqueid": "7605801",
+            "issn": "0099-2240",
+            "essn": "1098-5336",
+            "pubtype": [
+                "Journal Article"
+            ],
+            "recordstatus": "PubMed - indexed for MEDLINE",
+            "pubstatus": "256",
+            "articleids": [
+                {
+                    "idtype": "pubmed",
+                    "idtypen": 1,
+                    "value": "25304512"
+                },
+                {
+                    "idtype": "pii",
+                    "idtypen": 4,
+                    "value": "AEM.02767-14"
+                },
+                {
+                    "idtype": "doi",
+                    "idtypen": 3,
+                    "value": "10.1128/AEM.02767-14"
+                },
+                {
+                    "idtype": "pmc",
+                    "idtypen": 8,
+                    "value": "PMC4272740"
+                },
+                {
+                    "idtype": "rid",
+                    "idtypen": 8,
+                    "value": "25304512"
+                },
+                {
+                    "idtype": "eid",
+                    "idtypen": 8,
+                    "value": "25304512"
+                },
+                {
+                    "idtype": "pmcid",
+                    "idtypen": 5,
+                    "value": "pmc-id: PMC4272740;"
+                }
+            ],
+            "history": [
+                {
+                    "pubstatus": "entrez",
+                    "date": "2014/10/12 06:00"
+                },
+                {
+                    "pubstatus": "pubmed",
+                    "date": "2014/10/12 06:00"
+                },
+                {
+                    "pubstatus": "medline",
+                    "date": "2015/08/04 06:00"
+                }
+            ],
+            "references": [
+            ],
+            "attributes": [
+                "Has Abstract"
+            ],
+            "pmcrefcount": 14,
+            "fulljournalname": "Applied and environmental microbiology",
+            "elocationid": "doi: 10.1128/AEM.02767-14",
+            "doctype": "citation",
+            "srccontriblist": [
+            ],
+            "booktitle": "",
+            "medium": "",
+            "edition": "",
+            "publisherlocation": "",
+            "publishername": "",
+            "srcdate": "",
+            "reportnumber": "",
+            "availablefromurl": "",
+            "locationlabel": "",
+            "doccontriblist": [
+            ],
+            "docdate": "",
+            "bookname": "",
+            "chapter": "",
+            "sortpubdate": "2015/01/01 00:00",
+            "sortfirstauthor": "Kato S",
+            "vernaculartitle": ""
+        }
+    }
+}
